@@ -1,1 +1,6 @@
-# windows_pass_if_to_other_process
+# Print the input in another thread
+
+```bash
+make re
+```
+compiles everything and runs in wine
